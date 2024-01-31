@@ -22,7 +22,7 @@ The Service includes features from our partners, such as advertising. A list of 
 
 | Partners | Privacy Policy |  opt-out |
 |----------|:-------------:|------:|
-| Google Admob |  [Link text](https://policies.google.com/privacy) | [Link text](https://policies.google.com/privacy) |
+| Google Admob |  [Privacy Policy](https://policies.google.com/privacy) | [opt-out](https://policies.google.com/privacy) |
 
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
