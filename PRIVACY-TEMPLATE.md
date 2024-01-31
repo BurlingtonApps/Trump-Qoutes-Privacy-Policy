@@ -20,9 +20,18 @@ We want to inform users of this Service that these third parties have access to 
 
 The Service includes features from our partners, such as advertising. A list of these partners is available In this document. These partners may access your data and operate under their own privacy policies. We encourage you to check their privacy policies to learn more about their data processing practices.
 
-| Partners | Privacy Policy |  opt-out |
-|----------|:-------------:|------:|
-| Google Admob |  [Privacy Policy](https://policies.google.com/privacy) | [opt-out](https://policies.google.com/privacy) |
+###To show personalized advertisements.
+
+To show you personalized advertisements (more relevant advertisement instead of random advertisement, the amount remaining same in both cases) in the Service as well as in other websites and services (including email) we have a legitimate interest to process necessary data to
+
+* Track the content you access in connection with the Service and your online behavior
+* Deliver, target and improve our advertising and the Service
+
+For information on how to opt-out from personalized advertisements, see section ‘Your rights and options’ below.
+
+### Your Rights and Options
+### Opt-out of targeted advertising.
+You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device and selecting “limit ad tracking” (Apple iOS) or “opt-out of interest based ads” (Android). For more information, see also our Partners section in this document.
 
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
@@ -32,6 +41,11 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+
+### Partners
+| Partners | Privacy Policy |  opt-out |
+|----------|:-------------:|------:|
+| Google Admob |  [Privacy Policy](https://policies.google.com/privacy) | [opt-out](https://policies.google.com/privacy) |
 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
