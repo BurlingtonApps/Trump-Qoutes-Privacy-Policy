@@ -29,7 +29,6 @@ To show you personalized advertisements (more relevant advertisement instead of 
 
 For information on how to opt-out from personalized advertisements, see section ‘Your rights and options’ below.
 
-### Your Rights and Options
 ### Opt-out of targeted advertising.
 You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device and selecting “limit ad tracking” (Apple iOS) or “opt-out of interest based ads” (Android). For more information, see also our Partners section in this document.
 
