@@ -20,7 +20,7 @@ We want to inform users of this Service that these third parties have access to 
 
 The Service includes features from our partners, such as advertising. A list of these partners is available In this document. These partners may access your data and operate under their own privacy policies. We encourage you to check their privacy policies to learn more about their data processing practices.
 
-###To show personalized advertisements.
+### To show personalized advertisements.
 
 To show you personalized advertisements (more relevant advertisement instead of random advertisement, the amount remaining same in both cases) in the Service as well as in other websites and services (including email) we have a legitimate interest to process necessary data to
 
